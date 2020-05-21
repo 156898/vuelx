@@ -1,0 +1,64 @@
+{
+    "status": 200, 
+    "msg": "ok", 
+    "data": {
+        "routine_my_menus": [
+            {
+                "id": 135, 
+                "name": "会员中心", 
+                "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/28/5c9ccc9934a7c.png", 
+                "url": "/pages/user_vip/index", 
+                "wap_url": "/user/vip"
+            }, 
+            {
+                "id": 136, 
+                "name": "砍价记录", 
+                "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/28/5c9ccc9918091.png", 
+                "url": "/pages/activity/user_goods_bargain_list/index", 
+                "wap_url": "/activity/bargain/record"
+            }, 
+            {
+                "id": 137, 
+                "name": "我的推广", 
+                "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/28/5c9ccc9943575.png", 
+                "url": "/pages/user_spread_user/index", 
+                "wap_url": "/user/user_promotion"
+            }, 
+            {
+                "id": 138, 
+                "name": "我的余额", 
+                "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/28/5c9ccc992db31.png", 
+                "url": "/pages/user_money/index", 
+                "wap_url": "/user/account"
+            }, 
+            {
+                "id": 139, 
+                "name": "地址信息", 
+                "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/28/5c9ccc99101a8.png", 
+                "url": "/pages/user_address_list/index", 
+                "wap_url": "/user/add_manage"
+            }, 
+            {
+                "id": 140, 
+                "name": "我的收藏", 
+                "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/28/5c9ccc99269d1.png", 
+                "url": "/pages/user_goods_collection/index", 
+                "wap_url": "/collection"
+            }, 
+            {
+                "id": 141, 
+                "name": "优惠券", 
+                "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/28/5c9ccc991f394.png", 
+                "url": "/pages/user_coupon/index", 
+                "wap_url": "/user/user_coupon"
+            }, 
+            {
+                "id": 172, 
+                "name": "联系客服", 
+                "pic": "http://kaifa.crmeb.net/uploads/attach/2019/07/20190730/0ded3d3f72d654fb33c8c9f30a268c97.png", 
+                "url": "/pages/service/index", 
+                "wap_url": "/customer/list"
+            }
+        ]
+    }
+}

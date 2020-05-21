@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "uid": 2982,
+    "nickname": "928b601c8843",
+    "avatar": "http://kaifa.crmeb.net/uploads/attach/2019/08/20190807/723adbdd4e49a0f9394dfc700ab5dba3.png",
+    "now_money": "0.00",
+    "brokerage_price": "0.00",
+    "integral": "0.00",
+    "user_type": "h5",
+    "login_type": ""
+  }
+}
